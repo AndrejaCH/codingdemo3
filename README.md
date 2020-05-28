@@ -8,6 +8,7 @@ Some basic commands are explained in the hello-world repository. Here I will foc
 viewing status.
 
 <h4>Commands For Branchig</h4>
+
 *Clone repository on your local computer, create a new branch to work on.
 Next stage, commit and push commands. Next, merge branches and delete \*old branch\*.*
 
@@ -18,6 +19,7 @@ Next stage, commit and push commands. Next, merge branches and delete \*old bran
 - [x] `git merge <name_of_brange_to_merge_in>`
 
 <h4>Commands For Wieving</h4>
+
 *Constant checking status using `git status`, especially at the beginning, helps you
 understand git process. You can easily view history with `git log` commands.*
 
