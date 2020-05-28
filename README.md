@@ -9,7 +9,7 @@ viewing status.
 
 <h4>Commands For Branchig</h4>
 *Clone repository on your local computer, create a new branch to work on.
-Next stage, commit and push commands. Next, merge branches and delete \*old branch\*.
+Next stage, commit and push commands. Next, merge branches and delete \*old branch\*.*
 
 - [x] `git clone <URL>`
 - [x] `git checkout -b <new_branch_name>`
@@ -19,7 +19,7 @@ Next stage, commit and push commands. Next, merge branches and delete \*old bran
 
 <h4>Commands For Wieving</h4>
 *Constant checking status using `git status`, especially at the beginning, helps you
-understand git process. You can easily view history with `git log` commands.
+understand git process. You can easily view history with `git log` commands.*
 
 - [x] `git log`
 - [x] `git log --oneline`
