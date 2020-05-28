@@ -35,6 +35,7 @@ Please see explanation of commands here ![GitBasicCommands](docs/GitBasics.pdf)
 :round_pushpin: clean your GitHub and code
 :round_pushpin: practice
 :round_pushpin: useful sites: 
+
 - [EmojiCheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [GitHubWelcome](https://guides.github.com/?email_source=welcome)
