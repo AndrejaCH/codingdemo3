@@ -43,7 +43,10 @@ Please see the explanation of commands here ![GitBasicCommands](docs/GitBasics.p
 
 - [EmojiCheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Another Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHubWelcome](https://guides.github.com/?email_source=welcome)
+- [Math Expresions](https://www.latex-tutorial.com/tutorials/)
+
 
 Thank you for **README** 
 
